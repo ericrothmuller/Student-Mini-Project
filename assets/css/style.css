@@ -1,0 +1,60 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: lightblue;
+    font-size: 20px;
+}
+
+/* Header and Navigation Bar Begins Here */
+
+header {
+    background-color: darkblue;
+    color: #ffffff;
+}
+
+h1 {
+    font-size: 55px;
+    text-align: center;
+}
+
+nav  {
+
+    display: inline-block;
+    position: relative;
+    left: 550px;
+}
+
+
+nav ul {
+    display: inline-block;
+    margin-left: 25px;
+    text-align: center;
+}
+
+nav ul li {
+    font-size: 30px;
+    display: inline-block;
+    margin-left: 25px;
+    text-align: center;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+/* Main Section Begins Here */
+
+img {
+    border: 2px solid #ffffff;
+}
+
+/* Footer Section Begins Here */
+
+footer {
+    padding: 30px;
+    text-align: center;
+    font-weight: bolder;
+}
